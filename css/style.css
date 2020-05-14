@@ -1,0 +1,15 @@
+/* Reset */
+
+body, h1, h2, h3, p, ul {
+    padding: 0px;          /* tirando as margens padrão */
+    margin: 0px;
+}
+
+body {
+    font-family: Georgia, serif; /* definindo a letra e cor padrão */
+    color: #252525;
+}
+
+/* Menu */
+
+ 
